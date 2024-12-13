@@ -104,6 +104,4 @@ replay_pid*
 /Git_ignore_test/src/main/webapp/WEB-INF/web.xml
 /Git_ignore_test/src/main/webapp/WEB-INF/Command.properties
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_5_right.java
-=======
-/Git_ignore_test/src/main/webapp/WEB-INF/web.xml
->>>>>>> branch 'main' of https://github.com/mjhan123/Git_ignore_test.git
+/Git_ignore_test/src/main/java/nocommit_some/NoCommit_6_mistake.java
